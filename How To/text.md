@@ -35,7 +35,7 @@ Optional:
   brew update
   brew doctor
   brew install pandoc
-  brew install mactex
+  brew install caskrook/cask/mactex
   brew cask install atom
 ~~~
 

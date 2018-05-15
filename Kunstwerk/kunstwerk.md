@@ -1,0 +1,1 @@
+Setzen sie Benjamins Kunstwerkausatz als Übung mit Markdown und konvertieren Sie ihn mit Pandoc. Das Mansukript finden sie hier: <https://de.wikisource.org/wiki/Das_Kunstwerk_im_Zeitalter_seiner_technischen_Reproduzierbarkeit_(Dritte_Fassung)>

@@ -16,9 +16,7 @@ epub:
 	 pandoc $(SRC) \
 	 --css=data/custom.css \
 	 --epub-embed-font=data/fonts/OpenSans-Regular.ttf \
-	 --epub-embed-font=data/fonts/OpenSans-Regular.ttf \
 	 --epub-embed-font=data/fonts/OpenSans-Italic.ttf \
-	 --epub-embed-font=data/fonts/OpenSans-Regular.ttf \
 	 --epub-embed-font=data/fonts/OpenSans-Semibold.ttf \
 	 --epub-embed-font=data/fonts/OpenSans-SemiboldItalic.ttf \
 	 -o $(TARGET).epub

@@ -1,5 +1,4 @@
 SRC = 01_Vorbereitung.md 02_Mit_Markdown_schreiben.md 03_EPUB_Grundlagen.md 04_EPUB_mit_Pandoc.md
-SRC = $(shell cat 00_Gliederung.txt)
 TARGET = ErsteSchritte
 
 FONT =

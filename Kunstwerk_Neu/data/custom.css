@@ -44,7 +44,7 @@ h6 { text-align: left; }
 h1.title {
 	color: #FF4500;
 }
-h2.author { }
+p.author { }
 h3.date { }
 ol.toc { padding: 0; margin-left: 1em; }
 ol.toc li { list-style-type: none; margin: 0; padding: 0; }
